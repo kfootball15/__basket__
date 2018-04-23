@@ -1,0 +1,44 @@
+{
+	"products": [
+		{
+			"id": "16466a06-25b4-44b0-92d9-a06c9b7aa624",
+			"icon": "images/milk.png",
+			"qty": "1",
+			"price": 4,
+			"title": "Milk",
+			"inCart": false
+		},
+		{
+			"id": "26466a06-25b4-44b0-92d9-a06c9b7ab657",
+			"icon": "images/fruit.png",
+			"qty": "1",
+			"price": 12,
+			"title": "Fruit",
+			"inCart": false
+		},
+		{
+			"id": "36466a06-25b4-44b0-92d9-a06c9b7hy785",
+			"icon": "images/cheese.png",
+			"qty": "1",
+			"price": 7,
+			"title": "Cheese",
+			"inCart": false
+		},
+		{
+			"id": "46466a06-25b4-44b0-92d9-a06c9b7hj888",
+			"icon": "images/vegetables.png",
+			"qty": "1",
+			"price": 9,
+			"title": "Vegetables",
+			"inCart": false
+		},
+		{
+			"id": "56466a06-25b4-44b0-92d9-a06c9b7mx441",
+			"icon": "images/cereal.png",
+			"qty": "1",
+			"price": 6,
+			"title": "Cereal",
+			"inCart": false
+		}
+	]
+}

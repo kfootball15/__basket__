@@ -1,0 +1,17 @@
+.cartIcon {
+	position: absolute;
+	right: 0px;
+}
+.cartIcon__amount {
+	color: $primary-text;
+	background: $red;
+	padding: 4px 9px;
+    position: relative;
+    border-radius: 20px;
+	top: -7px;
+    right: 46px;
+
+    &:hover {
+    	darken:($remove, 100%)
+    }
+}

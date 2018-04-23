@@ -1,0 +1,27 @@
+header {
+	background: $primary-background;
+	position: fixed;
+	height: $header-height;
+	display: block;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	h1 {
+		color: $primary-text;
+		margin: 0;
+		&:hover{
+			color: darken($primary-background, 20%)
+		}
+	}
+	a {
+		margin: 0 10vw;
+		color: $primary-text;
+
+		&:hover{
+			color: darken($primary-background, 10%);
+		}
+	}
+
+}
+
